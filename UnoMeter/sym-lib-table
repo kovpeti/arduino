@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "archive")(type "Legacy")(uri "${KIPRJMOD}/UnoMeter-archive.lib")(options "")(descr ""))
+  (lib (name "UnoMeter-rescue")(type "Legacy")(uri "${KIPRJMOD}/UnoMeter-rescue.lib")(options "")(descr ""))
+)

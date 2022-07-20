@@ -1,0 +1,214 @@
+12-16 19:42:35 archive_project.action_archive_project 101:Archive plugin version: 26 started
+12-16 19:42:53 archive_project.action_archive_project 157:Starting archiving only schematics
+12-16 19:42:53 archive_project.archive_project 131:Starting to archive symbols
+12-16 19:42:53 archive_project.archive_project 138:Pcb filename:/home/kovpeti/Projects/PenMeter/Hardware/UnoMeter/UnoMeter.kicad_pcb
+12-16 19:42:53 archive_project.archive_project 150:Kicad config path: /home/kovpeti/.config/kicad
+12-16 19:42:53 archive_project.archive_project 184:Project sym lib table does not exist
+12-16 19:42:53 archive_project.archive_project 220:Entering archive library in sym-lib-table
+12-16 19:42:53 archive_project.archive_project 123:found subsheet:
+	/home/kovpeti/Projects/PenMeter/Hardware/UnoMeter/psu.sch
+	 in:
+	/home/kovpeti/Projects/PenMeter/Hardware/UnoMeter/UnoMeter.sch, line: 1644
+12-16 19:42:53 archive_project.archive_project 309:found all subsheets
+12-16 19:42:53 archive_project.archive_project 317:Archiving file: /home/kovpeti/Projects/PenMeter/Hardware/UnoMeter/UnoMeter.sch
+12-16 19:42:53 archive_project.archive_project 317:Archiving file: /home/kovpeti/Projects/PenMeter/Hardware/UnoMeter/psu.sch
+12-16 19:42:53 archive_project.archive_project 458:Writing schematics file(s)
+12-16 19:42:55 archive_project.action_archive_project 202:Starting 3D model archiving
+12-16 19:42:55 archive_project.archive_project 473:Starting to archive 3D models
+12-16 19:42:55 archive_project.archive_project 485:KISYS3DMOD path: /usr/share/kicad/modules/packages3d
+12-16 19:42:55 archive_project.archive_project 512:Trying to copy: ${KISYS3DMOD}/Package_TO_SOT_SMD.3dshapes/SOT-23-5.wrl
+12-16 19:42:55 archive_project.archive_project 565:Remapping: ${KISYS3DMOD}/Package_TO_SOT_SMD.3dshapes/SOT-23-5.wrl
+12-16 19:42:55 archive_project.archive_project 512:Trying to copy: ${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl
+12-16 19:42:55 archive_project.archive_project 565:Remapping: ${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl
+12-16 19:42:55 archive_project.archive_project 512:Trying to copy: ${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl
+12-16 19:42:55 archive_project.archive_project 565:Remapping: ${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl
+12-16 19:42:55 archive_project.archive_project 512:Trying to copy: ${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl
+12-16 19:42:55 archive_project.archive_project 565:Remapping: ${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl
+12-16 19:42:55 archive_project.archive_project 512:Trying to copy: ${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl
+12-16 19:42:55 archive_project.archive_project 565:Remapping: ${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl
+12-16 19:42:55 archive_project.archive_project 512:Trying to copy: ${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl
+12-16 19:42:55 archive_project.archive_project 565:Remapping: ${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl
+12-16 19:42:55 archive_project.archive_project 512:Trying to copy: ${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0805_2012Metric.wrl
+12-16 19:42:55 archive_project.archive_project 565:Remapping: ${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0805_2012Metric.wrl
+12-16 19:42:55 archive_project.archive_project 512:Trying to copy: ${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl
+12-16 19:42:55 archive_project.archive_project 565:Remapping: ${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl
+12-16 19:42:55 archive_project.archive_project 512:Trying to copy: ${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl
+12-16 19:42:55 archive_project.archive_project 565:Remapping: ${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl
+12-16 19:42:55 archive_project.archive_project 512:Trying to copy: ${KISYS3DMOD}/Package_TO_SOT_SMD.3dshapes/SOT-23.wrl
+12-16 19:42:55 archive_project.archive_project 565:Remapping: ${KISYS3DMOD}/Package_TO_SOT_SMD.3dshapes/SOT-23.wrl
+12-16 19:42:55 archive_project.archive_project 512:Trying to copy: /home/kovpeti/KiCad/3d_models/AXICOM IMxxGR.step
+12-16 19:42:55 archive_project.archive_project 565:Remapping: /home/kovpeti/KiCad/3d_models/AXICOM IMxxGR.step
+12-16 19:42:55 archive_project.archive_project 512:Trying to copy: ${KIPRJMOD}/shapes3D/AXICOM IMxxGR.step
+12-16 19:42:55 archive_project.archive_project 565:Remapping: ${KIPRJMOD}/shapes3D/AXICOM IMxxGR.step
+12-16 19:42:55 archive_project.archive_project 512:Trying to copy: ${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0805_2012Metric.wrl
+12-16 19:42:55 archive_project.archive_project 565:Remapping: ${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0805_2012Metric.wrl
+12-16 19:42:55 archive_project.archive_project 512:Trying to copy: ${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0805_2012Metric.wrl
+12-16 19:42:55 archive_project.archive_project 565:Remapping: ${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0805_2012Metric.wrl
+12-16 19:42:55 archive_project.archive_project 512:Trying to copy: ${KISYS3DMOD}/Package_TO_SOT_SMD.3dshapes/SOT-23-5.wrl
+12-16 19:42:55 archive_project.archive_project 565:Remapping: ${KISYS3DMOD}/Package_TO_SOT_SMD.3dshapes/SOT-23-5.wrl
+12-16 19:42:55 archive_project.archive_project 512:Trying to copy: ${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl
+12-16 19:42:55 archive_project.archive_project 565:Remapping: ${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl
+12-16 19:42:55 archive_project.archive_project 512:Trying to copy: ${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl
+12-16 19:42:55 archive_project.archive_project 565:Remapping: ${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl
+12-16 19:42:55 archive_project.archive_project 512:Trying to copy: ${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl
+12-16 19:42:55 archive_project.archive_project 565:Remapping: ${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl
+12-16 19:42:55 archive_project.archive_project 512:Trying to copy: ${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl
+12-16 19:42:55 archive_project.archive_project 565:Remapping: ${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl
+12-16 19:42:55 archive_project.archive_project 512:Trying to copy: ${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl
+12-16 19:42:55 archive_project.archive_project 565:Remapping: ${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl
+12-16 19:42:55 archive_project.archive_project 512:Trying to copy: ${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl
+12-16 19:42:55 archive_project.archive_project 565:Remapping: ${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl
+12-16 19:42:55 archive_project.archive_project 512:Trying to copy: ${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl
+12-16 19:42:55 archive_project.archive_project 565:Remapping: ${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl
+12-16 19:42:55 archive_project.archive_project 512:Trying to copy: ${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl
+12-16 19:42:55 archive_project.archive_project 565:Remapping: ${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl
+12-16 19:42:55 archive_project.archive_project 512:Trying to copy: ${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0805_2012Metric.wrl
+12-16 19:42:55 archive_project.archive_project 565:Remapping: ${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0805_2012Metric.wrl
+12-16 19:42:55 archive_project.archive_project 512:Trying to copy: ${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl
+12-16 19:42:55 archive_project.archive_project 565:Remapping: ${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl
+12-16 19:42:55 archive_project.archive_project 512:Trying to copy: ${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl
+12-16 19:42:55 archive_project.archive_project 565:Remapping: ${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl
+12-16 19:42:55 archive_project.archive_project 512:Trying to copy: ${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl
+12-16 19:42:55 archive_project.archive_project 565:Remapping: ${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl
+12-16 19:42:55 archive_project.archive_project 512:Trying to copy: ${KISYS3DMOD}/Package_TO_SOT_SMD.3dshapes/SOT-23-5.wrl
+12-16 19:42:55 archive_project.archive_project 565:Remapping: ${KISYS3DMOD}/Package_TO_SOT_SMD.3dshapes/SOT-23-5.wrl
+12-16 19:42:55 archive_project.archive_project 512:Trying to copy: ${KISYS3DMOD}/Package_TO_SOT_SMD.3dshapes/SOT-23-6.wrl
+12-16 19:42:55 archive_project.archive_project 565:Remapping: ${KISYS3DMOD}/Package_TO_SOT_SMD.3dshapes/SOT-23-6.wrl
+12-16 19:42:55 archive_project.archive_project 512:Trying to copy: ${KISYS3DMOD}/Package_TO_SOT_SMD.3dshapes/SOT-23-6.wrl
+12-16 19:42:55 archive_project.archive_project 565:Remapping: ${KISYS3DMOD}/Package_TO_SOT_SMD.3dshapes/SOT-23-6.wrl
+12-16 19:42:55 archive_project.archive_project 512:Trying to copy: ${KISYS3DMOD}/Package_TO_SOT_SMD.3dshapes/SOT-23-6.wrl
+12-16 19:42:55 archive_project.archive_project 565:Remapping: ${KISYS3DMOD}/Package_TO_SOT_SMD.3dshapes/SOT-23-6.wrl
+12-16 19:42:55 archive_project.archive_project 512:Trying to copy: ${KISYS3DMOD}/Package_TO_SOT_SMD.3dshapes/SOT-23-5.wrl
+12-16 19:42:55 archive_project.archive_project 565:Remapping: ${KISYS3DMOD}/Package_TO_SOT_SMD.3dshapes/SOT-23-5.wrl
+12-16 19:42:55 archive_project.archive_project 512:Trying to copy: ${KISYS3DMOD}/Package_SO.3dshapes/MSOP-8_3x3mm_P0.65mm.wrl
+12-16 19:42:55 archive_project.archive_project 565:Remapping: ${KISYS3DMOD}/Package_SO.3dshapes/MSOP-8_3x3mm_P0.65mm.wrl
+12-16 19:42:55 archive_project.archive_project 512:Trying to copy: ${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl
+12-16 19:42:55 archive_project.archive_project 565:Remapping: ${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl
+12-16 19:42:55 archive_project.archive_project 512:Trying to copy: ${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl
+12-16 19:42:55 archive_project.archive_project 565:Remapping: ${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl
+12-16 19:42:55 archive_project.archive_project 512:Trying to copy: ${KISYS3DMOD}/Resistor_THT.3dshapes/R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal.wrl
+12-16 19:42:55 archive_project.archive_project 565:Remapping: ${KISYS3DMOD}/Resistor_THT.3dshapes/R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal.wrl
+12-16 19:42:55 archive_project.archive_project 512:Trying to copy: ${KISYS3DMOD}/Resistor_THT.3dshapes/R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal.wrl
+12-16 19:42:55 archive_project.archive_project 565:Remapping: ${KISYS3DMOD}/Resistor_THT.3dshapes/R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal.wrl
+12-16 19:42:55 archive_project.archive_project 512:Trying to copy: ${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl
+12-16 19:42:55 archive_project.archive_project 565:Remapping: ${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl
+12-16 19:42:55 archive_project.archive_project 512:Trying to copy: ${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl
+12-16 19:42:55 archive_project.archive_project 565:Remapping: ${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl
+12-16 19:42:55 archive_project.archive_project 512:Trying to copy: ${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl
+12-16 19:42:55 archive_project.archive_project 565:Remapping: ${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl
+12-16 19:42:55 archive_project.archive_project 512:Trying to copy: ${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl
+12-16 19:42:55 archive_project.archive_project 565:Remapping: ${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl
+12-16 19:42:55 archive_project.archive_project 512:Trying to copy: ${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl
+12-16 19:42:55 archive_project.archive_project 565:Remapping: ${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl
+12-16 19:42:55 archive_project.archive_project 512:Trying to copy: ${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl
+12-16 19:42:55 archive_project.archive_project 565:Remapping: ${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl
+12-16 19:42:55 archive_project.archive_project 512:Trying to copy: ${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl
+12-16 19:42:56 archive_project.archive_project 565:Remapping: ${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl
+12-16 19:42:56 archive_project.archive_project 512:Trying to copy: ${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl
+12-16 19:42:56 archive_project.archive_project 565:Remapping: ${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl
+12-16 19:42:56 archive_project.archive_project 512:Trying to copy: ${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0805_2012Metric.wrl
+12-16 19:42:56 archive_project.archive_project 565:Remapping: ${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0805_2012Metric.wrl
+12-16 19:42:56 archive_project.archive_project 512:Trying to copy: ${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0805_2012Metric.wrl
+12-16 19:42:56 archive_project.archive_project 565:Remapping: ${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0805_2012Metric.wrl
+12-16 19:42:56 archive_project.archive_project 512:Trying to copy: ${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0805_2012Metric.wrl
+12-16 19:42:56 archive_project.archive_project 565:Remapping: ${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0805_2012Metric.wrl
+12-16 19:42:56 archive_project.archive_project 512:Trying to copy: ${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0805_2012Metric.wrl
+12-16 19:42:56 archive_project.archive_project 565:Remapping: ${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0805_2012Metric.wrl
+12-16 19:42:56 archive_project.archive_project 512:Trying to copy: ${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0805_2012Metric.wrl
+12-16 19:42:56 archive_project.archive_project 565:Remapping: ${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0805_2012Metric.wrl
+12-16 19:42:56 archive_project.archive_project 512:Trying to copy: ${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0805_2012Metric.wrl
+12-16 19:42:56 archive_project.archive_project 565:Remapping: ${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0805_2012Metric.wrl
+12-16 19:42:56 archive_project.archive_project 512:Trying to copy: ${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0805_2012Metric.wrl
+12-16 19:42:56 archive_project.archive_project 565:Remapping: ${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0805_2012Metric.wrl
+12-16 19:42:56 archive_project.archive_project 512:Trying to copy: ${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0805_2012Metric.wrl
+12-16 19:42:56 archive_project.archive_project 565:Remapping: ${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0805_2012Metric.wrl
+12-16 19:42:56 archive_project.archive_project 512:Trying to copy: ${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl
+12-16 19:42:56 archive_project.archive_project 565:Remapping: ${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl
+12-16 19:42:56 archive_project.archive_project 512:Trying to copy: ${KISYS3DMOD}/Capacitor_Tantalum_SMD.3dshapes/CP_EIA-3216-18_Kemet-A.wrl
+12-16 19:42:56 archive_project.archive_project 565:Remapping: ${KISYS3DMOD}/Capacitor_Tantalum_SMD.3dshapes/CP_EIA-3216-18_Kemet-A.wrl
+12-16 19:42:56 archive_project.archive_project 512:Trying to copy: ${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl
+12-16 19:42:56 archive_project.archive_project 565:Remapping: ${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl
+12-16 19:42:56 archive_project.archive_project 512:Trying to copy: ${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl
+12-16 19:42:56 archive_project.archive_project 565:Remapping: ${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl
+12-16 19:42:56 archive_project.archive_project 512:Trying to copy: ${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl
+12-16 19:42:56 archive_project.archive_project 565:Remapping: ${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl
+12-16 19:42:56 archive_project.archive_project 512:Trying to copy: ${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl
+12-16 19:42:56 archive_project.archive_project 565:Remapping: ${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl
+12-16 19:42:56 archive_project.archive_project 512:Trying to copy: ${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl
+12-16 19:42:56 archive_project.archive_project 565:Remapping: ${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl
+12-16 19:42:56 archive_project.archive_project 512:Trying to copy: ${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl
+12-16 19:42:56 archive_project.archive_project 565:Remapping: ${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl
+12-16 19:42:56 archive_project.archive_project 512:Trying to copy: ${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl
+12-16 19:42:56 archive_project.archive_project 565:Remapping: ${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl
+12-16 19:42:56 archive_project.archive_project 512:Trying to copy: ${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl
+12-16 19:42:56 archive_project.archive_project 565:Remapping: ${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl
+12-16 19:42:56 archive_project.archive_project 512:Trying to copy: ${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl
+12-16 19:42:56 archive_project.archive_project 565:Remapping: ${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl
+12-16 19:42:56 archive_project.archive_project 512:Trying to copy: ${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl
+12-16 19:42:56 archive_project.archive_project 565:Remapping: ${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl
+12-16 19:42:56 archive_project.archive_project 512:Trying to copy: ${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl
+12-16 19:42:56 archive_project.archive_project 565:Remapping: ${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl
+12-16 19:42:56 archive_project.archive_project 512:Trying to copy: ${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl
+12-16 19:42:56 archive_project.archive_project 565:Remapping: ${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl
+12-16 19:42:56 archive_project.archive_project 512:Trying to copy: ${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl
+12-16 19:42:56 archive_project.archive_project 565:Remapping: ${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl
+12-16 19:42:56 archive_project.archive_project 512:Trying to copy: ${KISYS3DMOD}/Package_TO_SOT_SMD.3dshapes/TO-252-2.wrl
+12-16 19:42:56 archive_project.archive_project 565:Remapping: ${KISYS3DMOD}/Package_TO_SOT_SMD.3dshapes/TO-252-2.wrl
+12-16 19:42:56 archive_project.archive_project 512:Trying to copy: ${KISYS3DMOD}/Package_TO_SOT_SMD.3dshapes/TO-252-2.wrl
+12-16 19:42:56 archive_project.archive_project 565:Remapping: ${KISYS3DMOD}/Package_TO_SOT_SMD.3dshapes/TO-252-2.wrl
+12-16 19:42:56 archive_project.archive_project 512:Trying to copy: ${KISYS3DMOD}/Package_TO_SOT_SMD.3dshapes/SOT-23.wrl
+12-16 19:42:56 archive_project.archive_project 565:Remapping: ${KISYS3DMOD}/Package_TO_SOT_SMD.3dshapes/SOT-23.wrl
+12-16 19:42:56 archive_project.archive_project 512:Trying to copy: ${KISYS3DMOD}/Inductor_SMD.3dshapes/L_0805_2012Metric.wrl
+12-16 19:42:56 archive_project.archive_project 565:Remapping: ${KISYS3DMOD}/Inductor_SMD.3dshapes/L_0805_2012Metric.wrl
+12-16 19:42:56 archive_project.archive_project 512:Trying to copy: ${KISYS3DMOD}/Inductor_SMD.3dshapes/L_0805_2012Metric.wrl
+12-16 19:42:56 archive_project.archive_project 565:Remapping: ${KISYS3DMOD}/Inductor_SMD.3dshapes/L_0805_2012Metric.wrl
+12-16 19:42:56 archive_project.archive_project 512:Trying to copy: ${KISYS3DMOD}/Capacitor_Tantalum_SMD.3dshapes/CP_EIA-3216-18_Kemet-A.wrl
+12-16 19:42:56 archive_project.archive_project 565:Remapping: ${KISYS3DMOD}/Capacitor_Tantalum_SMD.3dshapes/CP_EIA-3216-18_Kemet-A.wrl
+12-16 19:42:56 archive_project.archive_project 512:Trying to copy: ${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl
+12-16 19:42:56 archive_project.archive_project 565:Remapping: ${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl
+12-16 19:42:56 archive_project.archive_project 512:Trying to copy: ${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl
+12-16 19:42:56 archive_project.archive_project 565:Remapping: ${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl
+12-16 19:42:56 archive_project.archive_project 512:Trying to copy: ${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl
+12-16 19:42:56 archive_project.archive_project 565:Remapping: ${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl
+12-16 19:42:56 archive_project.archive_project 512:Trying to copy: ${KISYS3DMOD}/Capacitor_Tantalum_SMD.3dshapes/CP_EIA-3216-18_Kemet-A.wrl
+12-16 19:42:56 archive_project.archive_project 565:Remapping: ${KISYS3DMOD}/Capacitor_Tantalum_SMD.3dshapes/CP_EIA-3216-18_Kemet-A.wrl
+12-16 19:42:56 archive_project.archive_project 512:Trying to copy: ${KISYS3DMOD}/Capacitor_Tantalum_SMD.3dshapes/CP_EIA-3216-18_Kemet-A.wrl
+12-16 19:42:56 archive_project.archive_project 565:Remapping: ${KISYS3DMOD}/Capacitor_Tantalum_SMD.3dshapes/CP_EIA-3216-18_Kemet-A.wrl
+12-16 19:42:56 archive_project.archive_project 512:Trying to copy: ${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl
+12-16 19:42:56 archive_project.archive_project 565:Remapping: ${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl
+12-16 19:42:56 archive_project.archive_project 512:Trying to copy: ${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl
+12-16 19:42:56 archive_project.archive_project 565:Remapping: ${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl
+12-16 19:42:56 archive_project.archive_project 512:Trying to copy: ${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl
+12-16 19:42:56 archive_project.archive_project 565:Remapping: ${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl
+12-16 19:42:56 archive_project.archive_project 512:Trying to copy: ${KISYS3DMOD}/Capacitor_SMD.3dshapes/CP_Elec_8x10.wrl
+12-16 19:42:56 archive_project.archive_project 565:Remapping: ${KISYS3DMOD}/Capacitor_SMD.3dshapes/CP_Elec_8x10.wrl
+12-16 19:42:56 archive_project.archive_project 512:Trying to copy: ${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl
+12-16 19:42:56 archive_project.archive_project 565:Remapping: ${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl
+12-16 19:42:56 archive_project.archive_project 512:Trying to copy: ${KISYS3DMOD}/Package_TO_SOT_SMD.3dshapes/SOT-23-5.wrl
+12-16 19:42:56 archive_project.archive_project 565:Remapping: ${KISYS3DMOD}/Package_TO_SOT_SMD.3dshapes/SOT-23-5.wrl
+12-16 19:42:56 archive_project.archive_project 512:Trying to copy: ${KISYS3DMOD}/Inductor_SMD.3dshapes/L_0805_2012Metric.wrl
+12-16 19:42:56 archive_project.archive_project 565:Remapping: ${KISYS3DMOD}/Inductor_SMD.3dshapes/L_0805_2012Metric.wrl
+12-16 19:42:56 archive_project.archive_project 512:Trying to copy: ${KISYS3DMOD}/Package_SO.3dshapes/MSOP-10_3x3mm_P0.5mm.wrl
+12-16 19:42:56 archive_project.archive_project 565:Remapping: ${KISYS3DMOD}/Package_SO.3dshapes/MSOP-10_3x3mm_P0.5mm.wrl
+12-16 19:42:56 archive_project.archive_project 512:Trying to copy: ${KISYS3DMOD}/TerminalBlock_Phoenix.3dshapes/TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal.wrl
+12-16 19:42:56 archive_project.archive_project 565:Remapping: ${KISYS3DMOD}/TerminalBlock_Phoenix.3dshapes/TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal.wrl
+12-16 19:42:56 archive_project.archive_project 512:Trying to copy: ${KISYS3DMOD}/Package_TO_SOT_SMD.3dshapes/TSOT-23-6.wrl
+12-16 19:42:56 archive_project.archive_project 565:Remapping: ${KISYS3DMOD}/Package_TO_SOT_SMD.3dshapes/TSOT-23-6.wrl
+12-16 19:42:56 archive_project.archive_project 512:Trying to copy: /home/kovpeti/KiCad/3d_models/Oled_128x64_I2C_DisplayAdafruit.step_
+12-16 19:42:56 archive_project.archive_project 544:Can not find model:
+/home/kovpeti/KiCad/3d_models/Oled_128x64_I2C_DisplayAdafruit.step_
+12-16 19:42:56 archive_project.archive_project 565:Remapping: /home/kovpeti/KiCad/3d_models/Oled_128x64_I2C_DisplayAdafruit.step_
+12-16 19:42:56 archive_project.archive_project 512:Trying to copy: ${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl
+12-16 19:42:56 archive_project.archive_project 565:Remapping: ${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl
+12-16 19:42:56 archive_project.archive_project 512:Trying to copy: ${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl
+12-16 19:42:56 archive_project.archive_project 565:Remapping: ${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl
+12-16 19:42:56 archive_project.archive_project 512:Trying to copy: ${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl
+12-16 19:42:56 archive_project.archive_project 565:Remapping: ${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl
+12-16 19:42:56 archive_project.archive_project 512:Trying to copy: ${KIPRJMOD}/Socket_Arduino_Uno.3dshapes/Socket_header_Arduino_1x08.wrl
+12-16 19:42:56 archive_project.archive_project 565:Remapping: ${KIPRJMOD}/Socket_Arduino_Uno.3dshapes/Socket_header_Arduino_1x08.wrl
+12-16 19:42:56 archive_project.archive_project 512:Trying to copy: ${KIPRJMOD}/Socket_Arduino_Uno.3dshapes/Socket_header_Arduino_1x06.wrl
+12-16 19:42:56 archive_project.archive_project 565:Remapping: ${KIPRJMOD}/Socket_Arduino_Uno.3dshapes/Socket_header_Arduino_1x06.wrl
+12-16 19:42:56 archive_project.archive_project 512:Trying to copy: ${KIPRJMOD}/Socket_Arduino_Uno.3dshapes/Socket_header_Arduino_1x10.wrl
+12-16 19:42:56 archive_project.archive_project 565:Remapping: ${KIPRJMOD}/Socket_Arduino_Uno.3dshapes/Socket_header_Arduino_1x10.wrl
+12-16 19:42:56 archive_project.archive_project 512:Trying to copy: ${KIPRJMOD}/Socket_Arduino_Uno.3dshapes/Socket_header_Arduino_1x08.wrl
+12-16 19:42:56 archive_project.archive_project 565:Remapping: ${KIPRJMOD}/Socket_Arduino_Uno.3dshapes/Socket_header_Arduino_1x08.wrl
